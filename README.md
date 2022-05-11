@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rmorton06
-- 👀 I’m interested in returning to web development
-- 🌱 I’m currently learning MySQL, Python, C#
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning Azure, Power BI, SSIS, 
+- 💞️ I’m looking to collaborate on SQL Development
 - 📫 How to reach me ...
 
 <!---
